@@ -1,0 +1,30 @@
+{
+  "lastToFirst": {
+    "enabled": true,
+    "variables": {
+      "test": "something"
+    }
+  },
+  "showInGrid": {
+    "enabled": false,
+    "variables": {
+      "test": "something"
+    }
+  },
+  "testVariables": {
+    "enabled": false,
+    "variables": {
+      "test": "something",
+      "int1": 123,
+      "double1": 11.12,
+      "checked": true,
+      "jsonArray": [
+        "name",
+        "baga"
+      ],
+      "jsonObject": {
+        "name": true
+      }
+    }
+  }
+}
